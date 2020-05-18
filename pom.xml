@@ -30,7 +30,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>oauth_api</applicationName>
+				<applicationName>oauthapi</applicationName>
 				<password>Panabaka87</password>
 				<muleVersion>4.2.2</muleVersion>
 				<objectStoreV2>true</objectStoreV2>
